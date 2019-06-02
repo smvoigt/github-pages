@@ -32,3 +32,7 @@ You can use markdown to link to other markdown files in your repository as well 
 
 When you have finished, you can commit and push the changes back to GitHub. After a few moments, you should see the updated page at github.io - ![github.io](images\github-io-website.png)
 
+* [Setup Jekyll locally](jekyll-win10.html)
+
+
+
