@@ -6,7 +6,7 @@ This guide demonstrates how to create a GitHub pages site. A GitHub pages site c
 
 1. On GitHub create a new repository. Your web site will have a URL that looks like https://username.github.io/repository-name
 
-2. On the Create a New Repository page, add a .gitignore for Jekyll. [Jekyll](https://jekyllrb.com/) is the tools which converts markdown text into html web pages. ![gitignore jekyll](images\gitignore-jekyll.png)
+2. On the Create a New Repository page, add a .gitignore for Jekyll. [Jekyll](https://jekyllrb.com/) is a tool that GitHub uses to convert markdown text into html web pages. ![gitignore jekyll](images\gitignore-jekyll.png)
 
 3. Open the repository settings page: ![Repository Settings](images\repo-settings.png)
 
